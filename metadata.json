@@ -1,0 +1,6 @@
+{
+  "name": "BarberHub",
+  "description": "Premium luxury minimalist dark-themed Barbershop Booking & Real-time queue platform where customers can schedule slots/track countdowns, and partner salons manage walk-in vs online queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
